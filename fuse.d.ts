@@ -1,5 +1,5 @@
-/// <reference path="../typings/es6-promise/es6-promise.d.ts" />
-/// <reference path='../typings/whatwg-fetch/whatwg-fetch.d.ts' />
+/// <reference path="../es6-promise/es6-promise.d.ts" />
+/// <reference path='../whatwg-fetch/whatwg-fetch.d.ts' />
 
 /**
  * Type Definition File for FuseJS
